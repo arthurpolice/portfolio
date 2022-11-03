@@ -16,3 +16,22 @@
 @import "./sass/sections/contact";
 @import "./sass/sections/hero";
 @import "./sass/sections/projects";
+
+.sub-title {
+  font-size: 2.6rem !important;
+}
+
+.icons {
+  width: 100%;
+}
+
+.ends-div {
+  width: 100%;
+  max-width: 400px;
+  display: inline-flex;
+  justify-content: space-around;
+}
+
+.icon {
+  font-size: 30pt;
+}
